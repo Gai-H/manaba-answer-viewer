@@ -1,6 +1,9 @@
 # manaba-answer-viewer
 
-小テストの回答と正解を横並びで表示するユーザスクリプト
+小テストの回答と正解を横並びで表示するユーザスクリプト  
+Issue、PR 歓迎です
+
+![image](image.png)
 
 ## Prerequisites
 
@@ -17,3 +20,9 @@ $ pnpm dev
 
 $ pnpm build
 ```
+
+## LICENSE
+
+MIT
+
+改変したい場合や他のプロジェクトに追加したい場合はライセンスの範囲でご自由にどうぞ
