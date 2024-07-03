@@ -9,7 +9,7 @@ export default defineConfig({
       userscript: {
         name: "Manaba Answer Viewer",
         namespace: "https://github.com/Gai-H/manaba-answer-viewer",
-        version: "1.0",
+        version: "1.1",
         description: "小テストの回答と正解を横並びで表示します。",
         include: [/^https:\/\/manaba\.tsukuba\.ac\.jp\/(local|ct)\/course_\d+_query_\d+\/?.*$/],
         exclude: [/^https:\/\/manaba\.tsukuba\.ac\.jp\/(local|ct)\/course_\d+_query_\d+\/?.*answer=1.*$/],
